@@ -1,0 +1,21 @@
+.timeslot{
+    cursor:pointer;
+    user-select:none;
+    font-weight:600;
+    /* font-weight:bold; */
+    border:1px solid black!important;
+    
+}
+
+.timeslotAvailable{
+    background-color:lime;
+}
+
+.timeslotUnavailable{
+    
+}
+
+th{
+    border:1px solid black!important;
+    user-select:none;
+}
